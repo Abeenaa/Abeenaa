@@ -26,14 +26,25 @@
 
 <div align="center">
 
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| 🛒 **Amazon Clone** | Full-stack e-commerce with cart, checkout simulation & responsive design | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) | [Frontend](https://github.com/Abeenaa/Amazon-replica-frontend) |
-| 🎬 **Netflix Clone** | Pixel-perfect streaming UI with mobile-first responsive layout | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) | [Repo](https://github.com/Abeenaa/Netflix-Clone) |
-| 📊 **Teacher Evaluation System** | Complete feedback platform for students to rate instructors | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | [Repo](https://github.com/Abeenaa/Teacher-evaluation) |
+### Featured Projects
+
+**Amazon Clone**  
+Full-stack e-commerce with cart, checkout simulation & responsive design  
+`React • Node.js • Express`
+
+<br>
+
+**Netflix Clone**  
+Pixel-perfect streaming UI with mobile-first responsive layout  
+`React • CSS`
+
+<br>
+
+**Teacher Evaluation System**  
+Complete feedback platform for students to rate instructors  
+`HTML5 • PHP • MySQL`
 
 </div>
-
 
 
 ## 🛠️ Tech Stack
