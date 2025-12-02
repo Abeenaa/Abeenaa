@@ -24,27 +24,19 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
+- **Amazon Clone**  
+  Full-stack e-commerce platform with cart, checkout simulation, and fully responsive design  
+  `Tech: React • Node.js • Express • MySQL`
 
-### Featured Projects
+- **Netflix Clone**  
+  Pixel-perfect Netflix UI clone with smooth scrolling, hover effects, and mobile-first design  
+  `Tech: React • CSS • REST API`
 
-**Amazon Clone**  
-Full-stack e-commerce with cart, checkout simulation & responsive design  
-`React • Node.js • Express`
+- **Teacher Evaluation System**  
+  Complete web app for students to submit feedback and rate instructors anonymously  
+  `Tech: HTML • CSS • JavaScript • PHP • MySQL`
 
-<br>
 
-**Netflix Clone**  
-Pixel-perfect streaming UI with mobile-first responsive layout  
-`React • CSS`
-
-<br>
-
-**Teacher Evaluation System**  
-Complete feedback platform for students to rate instructors  
-`HTML5 • PHP • MySQL`
-
-</div>
 
 
 ## 🛠️ Tech Stack
