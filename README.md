@@ -2,7 +2,7 @@
 
 # Hey there! I'm Abenezer Endalew
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Full-Stack+Developer;Problem+Solver alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3200&pause=800&color=007ACC&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Full-Stack+Developer;Problem+Solver;Open+Source+Enthusiast;Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 ## What I Build
@@ -45,9 +45,11 @@ I create full-stack applications that solve real problems. Here's what I've ship
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abeenaa&layout=compact&theme=radical&cache_seconds=3600" alt="Top Languages" />
 </div>
 ## 📫 Get In Touch
-- 📧 **Email**: abeneendalew@gmail.com
-- 💼 **LinkedIn**: https://www.linkedin.com/in/abenezer-endalew-b36022364
-- 🌐 **Portfolio**: https://abenezer-endalew-portifolio.vercel.app/
+<p align="center">
+  <a href="mailto:abeneendalew@gmail.com"><img src="https://img.shields.io/badge/email-me-ff6b35?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abenezer-endalew-b36022364"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://abenezer-endalew-portifolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-visit-A55EEA?style=flat&logo=vercel&logoColor=white" /></a>
+</p>
 - 🌍 Based in Ethiopia
 - 🎓 Graduating 2027
 ---
