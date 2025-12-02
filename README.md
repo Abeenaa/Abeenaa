@@ -1,7 +1,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=38&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Abenezer+Endalew;Full-Stack+Developer;Building+the+future+one+line+at+a+time+%F0%9F%9A%80" alt="Hey there! I'm Abenezer Endalew" />
 </p>
-I'm a passionate **Full-Stack Developer** who loves building beautiful, fast, and user-friendly web applications.
+<p align="center">
+  <samp>
+    I'm a passionate <strong>Full-Stack Developer</strong> who loves building beautiful, fast, and user-friendly web applications.
+  </samp>
+</p>
 
 - 💻 **Specializing in:** React, HTML/CSS, JavaScript, Node.js, Express, MySQL, MongoDB  
 - 🎨 **UI/UX enthusiast:** Clean, modern, accessible design 🚀  
