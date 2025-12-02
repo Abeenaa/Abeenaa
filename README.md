@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=38&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Abenezer+Endalew;Full-Stack+Developer+%F0%9F%9A%80" alt="Hey there! I'm Abenezer Endalew" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=38&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Abenezer+Endalew;Full-Stack+Developer" alt="Hey there! I'm Abenezer Endalew" />
 </p>
 <p align="center">
   <samp>
