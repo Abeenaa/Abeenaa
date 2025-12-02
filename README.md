@@ -1,15 +1,20 @@
-
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=42&duration=0&color=007ACC&background=FFFFFF00&center=true&vCenter=true&width=600&height=100&lines=Hey+there!+I'm+Abenezer+Endalew" alt="Hey there! I'm Abenezer Endalew" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&duration=1&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Abenezer+Endalew" alt="Hey there! I'm Abenezer Endalew" />
 </p>
 
+<p align="center">
+  <samp>I'm a passionate <strong>Full-Stack Developer</strong> who loves building beautiful, fast, and user-friendly web applications.</samp>
+</p>
 
-I'm a passionate Full-Stack Developer who loves building beautiful, fast, and user-friendly web applications.
+<p align="center">
+  <img src="https://img.shields.io/badge/Specializing%20in-React%20•%20Node.js%20•%20Express%20•%20MongoDB%20•%20MySQL-0A66C2?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <br>
+  <img src="https://img.shields.io/badge/UI%2FUX%20Enthusiast-Clean%2C%20Modern%2C%20Accessible%20Design-ff6b35?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
 
-💻 Specializing in: React, HTML/CSS, JavaScript, Node.js ,Express,MySQL,MongoDB
-🎨 UI/UX enthusiast: Clean, modern, accessible design
-🚀 Always learning and pushing boundaries
+<p align="center">
+  <em>Always learning • Pushing boundaries • Building the future </em>
+</p>
 
 ## 🚀 Featured Projects
 
