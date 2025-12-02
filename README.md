@@ -2,19 +2,27 @@
 
 # Hey there! I'm Abenezer Endalew
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Full-Stack+Developer;Problem+Solver;Always+Learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Full-Stack+Developer;Problem+Solver alt="Typing SVG" />
 
 </div>
 ## What I Build
 I create full-stack applications that solve real problems. Here's what I've shipped:
 
-## 🚀 Featured Projects
+### Featured Projects
+- **Amazon Clone**  
+  Full e-commerce experience with working cart and responsive design  
+  *[React, CSS, JavaScript,Node.js ,Express]*  
+  [View Repo](https://github.com/Abeenaa/Amazon-replica-frontend)
 
-| Project | Description | Tech Stack | 
-|---------|-------------|------------|
-| **Amazon Clone** | Full e-commerce with cart, checkout, and responsive design | React, CSS, JavaScript,Node.js,Express |
-| **Netflix Clone** | Streaming UI with responsive layouts for all devices | React, CSS |
-| **Teacher Evaluation System** | Student feedback system with database integration | HTML, CSS, JS, PHP, MySQL |
+- **Netflix Clone**  
+  Streaming UI that works perfectly on mobile and desktop  
+  *[React, CSS]*  
+  [View Repo](https://github.com/Abeenaa/Netflix-Clone)
+
+- **Teacher Evaluation System**  
+  Web app for students to rate and provide feedback to instructors  
+  *[HTML, CSS, JavaScript, PHP, MySQL]*  
+  [View Repo](https://github.com/Abeenaa/Teacher-evaluation)
 
 ## 🛠️ Tech Stack
 
@@ -33,15 +41,15 @@ I create full-stack applications that solve real problems. Here's what I've ship
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abeenaa&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abeenaa&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abeenaa&show_icons=true&theme=radical&cache_seconds=3600&hide=stars,issues" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abeenaa&layout=compact&theme=radical&cache_seconds=3600" alt="Top Languages" />
 </div>
-
 ## 📫 Get In Touch
 - 📧 **Email**: abeneendalew@gmail.com
 - 💼 **LinkedIn**: https://www.linkedin.com/in/abenezer-endalew-b36022364
 - 🌐 **Portfolio**: https://abenezer-endalew-portifolio.vercel.app/
-
+- 🌍 Based in Ethiopia
+- 🎓 Graduating 2027
 ---
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
