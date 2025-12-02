@@ -1,20 +1,21 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&duration=1&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Abenezer+Endalew" alt="Hey there! I'm Abenezer Endalew" />
-</p>
+## 👋 Hi, I'm **Abenezer Endalew**
+
+I'm a passionate **Full-Stack Developer** who loves building beautiful, fast, and user-friendly web applications.
+
+- 💻 **Specializing in:** React, HTML/CSS, JavaScript, Node.js, Express, MySQL, MongoDB  
+- 🎨 **UI/UX enthusiast:** Clean, modern, accessible design 🚀  
+- 🌱 Always learning and pushing boundaries
+
+<br>
 
 <p align="center">
-  <samp>I'm a passionate <strong>Full-Stack Developer</strong> who loves building beautiful, fast, and user-friendly web applications.</samp>
+  <a href="https://abenezer-endalew-portifolio.vercel.app/">
+    <img src="https://img.shields.io/badge/MY%20PORTFOLIO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="My Portfolio" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Specializing%20in-React%20•%20Node.js%20•%20Express%20•%20MongoDB%20•%20MySQL-0A66C2?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <br>
-  <img src="https://img.shields.io/badge/UI%2FUX%20Enthusiast-Clean%2C%20Modern%2C%20Accessible%20Design-ff6b35?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
+<br>
 
-<p align="center">
-  <em>Always learning • Pushing boundaries • Building the future </em>
-</p>
 
 ## 🚀 Featured Projects
 
