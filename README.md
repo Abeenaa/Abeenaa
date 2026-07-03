@@ -17,8 +17,6 @@ I'm a **Backend-Heavy Full-Stack Developer** with a passion for building robust,
 
 My expertise spans FastAPI, Node.js, PostgreSQL, and modern backend practices. I believe in clean, efficient code and architecting systems that scale. Whether it's designing fault-tolerant microservices, implementing authentication systems, building AI pipelines, or optimizing database queries, I'm driven by creating backend solutions that power intelligent applications.
 
-- � Specializing in: React, HTML/CSS, JavaScript, Node.js, Express, MySQL, MongoDB
-- 🎨 UI/UX enthusiast: Clean, modern, accessible design
 - 🌱 Always learning and pushing boundaries
 - 📍 Based in Addis Ababa, Ethiopia
 - 🎓 BSc Software Engineering & Management (Haramaya University)
